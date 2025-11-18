@@ -4,7 +4,7 @@ Let's understand the all the research paper that help to build Transformer Archi
 📘 Chronologically Sorted (Old → New)
 
 1993
-[25] Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice Santorini. Building a large annotated corpus of English: The Penn Treebank. 1993.
+*[25] Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice Santorini. Building a large annotated corpus of English: The Penn Treebank. 1993.*
 
 1997
 [13] Sepp Hochreiter and Jürgen Schmidhuber. Long short-term memory. 1997.
